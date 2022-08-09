@@ -1,0 +1,13 @@
+<web-app>
+<display-name>Archetype Created Web Application</display-name>
+<servlet>
+<servlet-name>ProductServlet</servlet-name>
+<display-name>ProductServlet</display-name>
+<description/>
+<servlet-class>ProductServlet</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>ProductServlet</servlet-name>
+<url-pattern>/ProductServlet</url-pattern>
+</servlet-mapping>
+</web-app>
